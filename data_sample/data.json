@@ -1,0 +1,35 @@
+[
+  {
+    
+    "Revenue":1400,
+       "Location":"San Francisco",
+    "Expenses":600
+
+  },
+  {
+"Revenue":900,
+    "Location":"Texas",
+    "Expenses":210
+  },
+  {
+    "Revenue":600,
+        "Location":"Oregon",
+    "Expenses":120
+  },
+  {
+"Revenue":1900,
+    "Location":"New York",
+    "Expenses":810
+  },
+    {
+    "Revenue":1100,
+        "Location":"Florida",
+    "Expenses":400
+  },
+    {
+    
+    "Revenue":700,
+        "Location":"Arizona",
+    "Expenses":300
+  }
+]
