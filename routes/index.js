@@ -3,7 +3,6 @@ var router = express.Router();
 var mongoose = require('mongoose');
 var GraphData = mongoose.model('GraphData');
 
-
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
